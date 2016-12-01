@@ -1,6 +1,6 @@
 --find-links wheelhouse
 django==1.10.3
 pycrypto==2.6.1
-pandas==0.18.1
+pandas==0.19.1
 numpy==1.11.1
 Pillow==3.4.2
